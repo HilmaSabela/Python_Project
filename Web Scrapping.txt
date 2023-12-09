@@ -1,0 +1,13 @@
+===========WEB SCRAPPING============
+--> Merupakan cara pengambilan suaru data atau informasi tertentu dengan jumlah besar untuk nantinya digunakan 
+dalam keperluan riset atau analisis. Biasanya diambil dari website.
+--> Pada data analust, web scrapping dilakukan dengan bahasa pemograman phyton untuk mengambil data pada sebuah website
+--> NOTE : Ketika menscrapping data pada website terlalu lama, alamat IP akan terdeteksi sehingga menimbulkan kecurigaan.
+		maka, biasanya website akan memblokir alamat IP kita, maka perlu timer untuk menscrapping data.
+
+==> Biasanya pakai bs4 dan BeautifulSoup
+
+==========PANDA==============
+--> Panda adalah Library dari phyton, yang digunakan untuk data analyst. 
+--> biasanya ditujukan untuk data wrangling dan data manipulation (process adjusting data to make it organised and easier to read)
+
